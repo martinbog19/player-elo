@@ -1,8 +1,6 @@
 name: Morning Debrief
 
 on:
-  schedule:
-    - cron: '0 14 * * *'
   workflow_dispatch:
 
 
